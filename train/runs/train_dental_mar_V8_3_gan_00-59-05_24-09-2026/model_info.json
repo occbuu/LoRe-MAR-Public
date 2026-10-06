@@ -1,0 +1,23 @@
+{
+ "params_generator_G": 12481090,
+ "params_generator_F": 12481090,
+ "params_discriminator_X": 134337,
+ "params_discriminator_Y": 134337,
+ "params_total": 25230854,
+ "device": "cuda",
+ "gpu_name": "Tesla P40",
+ "torch_version": "2.2.2+cu121",
+ "best_epoch": 104,
+ "best_val_score": 0.44564477130513425,
+ "epochs_trained": 600,
+ "avg_epoch_sec": 90.62957764334149,
+ "total_train_hours_this_run": 3.659132095774015,
+ "dataset_counts": {
+  "train_glare": 1109,
+  "train_normal": 1560,
+  "val_glare": 65,
+  "val_normal": 200
+ },
+ "batch_size": 16,
+ "img_size": 256
+}

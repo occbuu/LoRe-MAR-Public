@@ -1,0 +1,12 @@
+{
+ "Glare": {
+  "Train": 1109,
+  "Val": 65,
+  "Test": 110
+ },
+ "Normal": {
+  "Train": 1560,
+  "Val": 240,
+  "Test": 450
+ }
+}
